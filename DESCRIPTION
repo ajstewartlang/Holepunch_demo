@@ -15,3 +15,5 @@ Depends:
     ggplot2
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/ajstewartlang/Holepunch_demo
+BugReports: https://github.com/ajstewartlang/Holepunch_demo/issues
