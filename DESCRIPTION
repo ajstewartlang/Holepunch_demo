@@ -11,7 +11,7 @@ Authors@R:
 Description: What the package does (one paragraph).
 License: What license it uses
 Depends: 
-    dplyr,
+    dplyr ( == 0.5.0),
     ggplot2
 Encoding: UTF-8
 LazyData: true
